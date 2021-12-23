@@ -1,9 +1,7 @@
-# A-Whale-Off-the-Port-folio-
+# A-Whale-Off-the-Port (folio)
 ## Nelson Lubinda
 
-[Unit 4 Homework Assignment: 
-A Whale Off the Port(folio)](whale_analysis.ipynb)
-_
+[Unit 4 Homework Assignment: A Whale Off the Portfolio](whale_analysis.ipynb)
 ![porfolio](img/portfolio.jpg)
 
 In this assignment evaluates the performance among

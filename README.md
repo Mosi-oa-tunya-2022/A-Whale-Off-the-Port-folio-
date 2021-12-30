@@ -4,7 +4,7 @@
 [Unit 4 Homework Assignment: A Whale Off the Portfolio](whale_analysis.ipynb)
 ![porfolio](img/portfolio.jpg)
 
-In this assignment evaluates the performance among
+This assignment evaluates the performance among;
  - various algorithmic,
  - hedge, andmutual fund portfolios
  - and compared against the S&P 500 Index.

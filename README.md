@@ -6,7 +6,7 @@
 
 This assignment evaluates the performance among;
  - various algorithmic,
- - hedge, andmutual fund portfolios
+ - hedge, and mutual fund portfolios
  - and compared against the S&P 500 Index.
 
 ![Orcas - Killer Whale](img/killer-whale-1.jpg)
